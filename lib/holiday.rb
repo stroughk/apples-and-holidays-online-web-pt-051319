@@ -18,7 +18,7 @@ def second_supply_for_fourth_of_july(holiday_hash)
   #   }
   # }
   
-  holiday_hash[:summer]
+  holiday_hash[:summer][:fourth_of_july][1]
   # return the second element in the 4th of July array
 end
 
